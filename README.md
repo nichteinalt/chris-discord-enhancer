@@ -1,4 +1,4 @@
-<p align="center"><b><font size="26"> Chris' Discord Enhancer </font></b></p>
+<p align="center"><img src="https://i.imgur.com/HFsmIsI.png"></img></p>
 A sideproject that aims to bring a much more cleaner Discord experience. 
 *NOTE: THIS IS IN AN EARLY STAGE OF DEVELOPMENT. THERE WILL BE MORE FEATURES ADDED TO THIS CUSTOM THEME*
 
