@@ -5,7 +5,7 @@ NOTE: THIS IS IN AN EARLY STAGE OF DEVELOPMENT. THERE WILL BE MORE FEATURES ADDE
 # Features
 - Cleaner Dark Theme (also known as the ["Black Paint"](https://www.youtube.com/watch?v=RXM65yCN7Qg) theme).
 - Hides blocked messages.
-- Removes unnecessary parts of Discord.
+- Removes unnecessary features (and assets) from Discord.
 
 # Preview Images
 ![Preview #1](https://cdn.discordapp.com/attachments/482971591001767936/488099250832670730/unknown.png)
