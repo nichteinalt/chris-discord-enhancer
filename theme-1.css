@@ -1,0 +1,147 @@
+/* 
+  Chris' Discord Enhancer 
+  Scripted by not an alt 
+*/
+
+/* 
+blue: #597ca8
+white: #e8e8e8
+gray: #727f87 
+black: #202326
+deep black: #151719
+*/
+
+/* main */
+body {
+  
+}
+
+/* updating colors */
+.guildsWrapper-5TJh6A {
+  background-color: #151719 !important;
+}
+
+.channels-Ie2l6A {
+  background-color: #202326 !important;
+}
+
+.headerBar-UHpsPw {
+  background-color: #202326 !important;
+}
+
+.friends-table {
+  background-color: #202326 !important;
+}
+
+.activityFeed-28jde9 {
+  background-color: #151719 !important;
+}
+
+a[href*="/channels/@me"] {
+  background-color: #202326;
+}
+
+div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1GKY directionRow-3v3tfG justifyStart-2NDFzi alignCenter-1dQNNs noWrap-3jynv6 headerBarDrag-3bf7wG title-3qD0b-"] {
+  background-color: #202326 !important;
+}
+
+.messagesWrapper-3lZDfY {
+  background-color: #202326 !important;
+}
+
+div[class = "scrollbar"]{
+  background-color: #202326 !important;
+}
+
+div[class = "track"]{
+  background-color: #202326 !important;
+  border-color: #202326 !important;
+}
+
+.typing-2GQL18 {
+  background-color: #202326 !important;
+}
+
+.members-1998pB {
+  background-color: #202326 !important;
+}
+
+div[class="divider-3gKybi dividerRed-MKoLlr divider-3zi9LO"] {
+  background-color: #202326 !important;
+}
+
+div[class="default-1VPH9n base-34jWEe"] {
+  background-image: url() !important;
+}
+
+div[class="wrapper-39oAo3"] {
+  background-image: url() !important;
+}
+
+.theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3 {
+  background-color: #202326 !important;
+}
+
+.chat-3bRxxu {
+  background-color: #151719 !important;
+}
+
+.container-PNkimc {
+  background-color: #202326 !important;
+}
+
+.homeIcon-1FoKUJ {
+  /* background-image: url(https://i.imgur.com/hi42dQ3.png) !important; */
+  background-color: #202326;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+}
+
+/* hide unnecessary features */
+.messageGroupBlockedBtn-1PBBh-{
+  display: none !important;
+}
+
+.messageGroupBlocked-3wrQQX-{
+  display: none !important;
+}
+
+.downloadAppButton-3EFlA6 {
+  display: none !important;
+}
+
+/* update icons */
+.friends-icon {
+  background-image: url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_question_answer_white_24px.svg) !important;
+  opacity: 0.8;
+  margin-top: 4px;
+  background-size: 50%!important;
+}
+
+/* version indicator */
+div[class*="userSettingsAccount-"]::before {
+  /* rainbow text animation */
+  -webkit-animation: rainbow 3s infinite; 
+  -ms-animation: rainbow 3s infinite;
+  animation: rainbow 3s infinite; 
+  
+  /* rest of the content */
+  content: "Chris' Discord Enhancer";
+  font-size: 18px;
+  font-weight: bold;
+  position:absolute; 
+  top: 1.4em
+}
+
+div[class*="userSettingsAccount-"]::after {
+  /* rest of the content */
+  color: white;
+  content: "Version 1.0.0";
+  font-size: 16px;
+  position:absolute; 
+  top: 2.6em
+}
+
+@-webkit-keyframes rainbow{ 0%{color: orange;}	10%{color: purple;} 20%{color: red;} 40%{color: yellow;} 60%{color: green;} 100%{color: blue;} 100%{color: orange;}	}
+@-ms-keyframes rainbow{ 0%{color: orange;}	10%{color: purple;} 20%{color: red;} 40%{color: yellow;} 60%{color: green;} 100%{color: blue;} 100%{color: orange;}	}
+@keyframes rainbow{ 0%{color: orange;}	10%{color: purple;} 20%{color: red;} 40%{color: yellow;} 60%{color: green;} 100%{color: blue;} 100%{color: orange;}	}
