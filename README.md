@@ -1,5 +1,11 @@
-# Chris' Discord Enhancer
-Sideproject that aims to bring a much more cleaner discord experience.
+<p align="center"> <b> Chris' Discord Enhancer </b> </p>
+A sideproject that aims to bring a much more cleaner Discord experience. 
+*NOTE: THIS IS IN AN EARLY STAGE OF DEVELOPMENT. THERE WILL BE MORE FEATURES ADDED TO THIS CUSTOM THEME*
+
+# Features
+- Cleaner Dark Theme (also known as the ["Black Paint"](https://www.youtube.com/watch?v=RXM65yCN7Qg) theme).
+- Hides blocked messages.
+- Removes unnecessary parts of Discord.
 
 # Preview Images
 ![Preview #1](https://cdn.discordapp.com/attachments/482971591001767936/488099250832670730/unknown.png)
