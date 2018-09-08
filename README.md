@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/HFsmIsI.png"></img></p>
 A sideproject that aims to bring a much more cleaner Discord experience. 
-*NOTE: THIS IS IN AN EARLY STAGE OF DEVELOPMENT. THERE WILL BE MORE FEATURES ADDED TO THIS CUSTOM THEME*
+NOTE: THIS IS IN AN EARLY STAGE OF DEVELOPMENT. THERE WILL BE MORE FEATURES ADDED TO THIS CUSTOM THEME
 
 # Features
 - Cleaner Dark Theme (also known as the ["Black Paint"](https://www.youtube.com/watch?v=RXM65yCN7Qg) theme).
